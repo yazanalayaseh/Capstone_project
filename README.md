@@ -51,3 +51,5 @@ MatIconModule which provides <mat-icon>.
 
 I had an error when I installed Angular Material. I checked Angular resourses and i had to uninstall angular material and install angular material 7.10.0
 
+
+
