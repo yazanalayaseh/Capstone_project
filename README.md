@@ -41,7 +41,7 @@ I used Angular Material Design to style for my nav bar UI,add Angular Material 1
  ng add @angular/material
 choose Deep Purple/Amber.
 
-We import the following Material components modules for building the  navigation UI:
+ imported the following Material components modules for building the  navigation UI:
 
 MatToolbarModule which provides <mat-toolbar> and <mat-toolbar-row> components.
 MatSidenavModule
